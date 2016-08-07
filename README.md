@@ -9,3 +9,5 @@
 
 ##Образование:
 <img src="http://IgorYarutkin.github.io/CV-letter/img/sertificate_base_small.png" width="250" alt="Сертификат">
+
+<img src="http://IgorYarutkin.github.io/CV-letter/img/html-academy-courses.png" width="250" alt="Курсы">
