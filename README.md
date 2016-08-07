@@ -8,6 +8,10 @@
 * опыт написания модулей и функций на JavaScript.
 
 ##Образование:
-<img src="http://IgorYarutkin.github.io/CV-letter/img/sertificate_base_small.png" width="250" alt="Сертификат">
+<img src="http://IgorYarutkin.github.io/CV-letter/img/sertificate_base_small.png" width="250" alt="Сертификат Базовый">
+
 
 <img src="http://IgorYarutkin.github.io/CV-letter/img/html_academy_courses.png" width="250" alt="Курсы">
+
+
+<img src="http://IgorYarutkin.github.io/CV-letter/img/sertificate_advanced.png" width="250" alt="Сертификат Продвинутый">
