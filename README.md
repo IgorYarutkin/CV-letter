@@ -46,6 +46,6 @@
 --- | ---
 ![Глейси](https://igoryarutkin.github.io/CV-letter/img/gllacy.png) | <br><br>**Особенности проекта**<ul><li>сетка на флоатах и инлайн-блоках, кастомные чекбоксы, радио-кнопки и селекторы;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/gllacy)
  | [**Промо-сайт приложения "Пинк"**](http://igoryarutkin.github.io/pink/index.html)
-![Пинк](https://igoryarutkin.github.io/CV-letter/img/pink.png) | **Особенности проекта**<ul><li>препроцессор SASS, автоматизация Grant;</li><li>сетка на флексбоксах, кастомные чекбоксы, радио-кнопки и селекторы;<li>svg-</li></li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/145716-pink)
+![Пинк](https://igoryarutkin.github.io/CV-letter/img/pink.png) | **Особенности проекта**<ul><li>препроцессор SASS, автоматизация Grant;</li><li>сетка на флексбоксах, кастомные чекбоксы, радио-кнопки и селекторы;<li>svg-спрайт, вставленный ин-лайн</li></li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/145716-pink)
  | [**Сайт города Седона**](http://igoryarutkin.github.io/sedona/index.html)
 ![Седона](https://igoryarutkin.github.io/CV-letter/img/sedona.png) | **Особенности проекта**<br><br><ul><li>сетка на флоатах и инлайн-блоках, форма заказа гостиницы и ее валидация на JS;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/sedona)
