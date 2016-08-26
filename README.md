@@ -42,9 +42,9 @@
 
 
 ##Проекты:
- | [**Глейси**](http://igoryarutkin.github.io/gllacy/index.html) **Интернет-магазин мороженого "Глейси"**<br><br>**Особенности проекта**
+ | [**Глейси**](http://igoryarutkin.github.io/gllacy/index.html) **Интернет-магазин мороженого "Глейси"**
 --- | ---
-![Глейси](https://igoryarutkin.github.io/CV-letter/img/gllacy.png) | <ul><li>сетка на флоатах и инлайн-блоках, кастомные чекбоксы, радио-кнопки и селекторы;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/gllacy)
+![Глейси](https://igoryarutkin.github.io/CV-letter/img/gllacy.png) | <br><br>**Особенности проекта**<ul><li>сетка на флоатах и инлайн-блоках, кастомные чекбоксы, радио-кнопки и селекторы;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/gllacy)
  | [**Пинк**](http://igoryarutkin.github.io/pink/index.html)
 ![Пинк](https://igoryarutkin.github.io/CV-letter/img/pink.png) | **Промо-сайт приложения "Пинк"**<br><br>**Особенности проекта**<br><br><ul><li>препроцессор SASS, автоматизация Grant;</li><li>сетка на флексбоксах, кастомные чекбоксы, радио-кнопки и селекторы;<li>svg-</li></li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/145716-pink)
  | [**Седона**](http://igoryarutkin.github.io/sedona/index.html)
