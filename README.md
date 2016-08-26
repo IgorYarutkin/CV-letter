@@ -42,7 +42,7 @@
 
 
 ##Проекты:
- | [**Глейси**](http://igoryarutkin.github.io/gllacy/index.html) **Интернет-магазин мороженого "Глейси"**
+ | [**Интернет-магазин мороженого "Глейси"**](http://igoryarutkin.github.io/gllacy/index.html)
 --- | ---
 ![Глейси](https://igoryarutkin.github.io/CV-letter/img/gllacy.png) | <br><br>**Особенности проекта**<ul><li>сетка на флоатах и инлайн-блоках, кастомные чекбоксы, радио-кнопки и селекторы;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/gllacy)
  | [**Пинк**](http://igoryarutkin.github.io/pink/index.html)
