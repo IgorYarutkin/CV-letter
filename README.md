@@ -45,5 +45,5 @@
  | [**Глейси**](http://igoryarutkin.github.io/gllacy/index.html)
 --- | ---
 ![Глейси](https://igoryarutkin.github.io/CV-letter/img/gllacy.png) | **Особенности проекта**<br><br><ul><li>сетка на флоатах и инлайн-блоках, кастомные чекбоксы, радио-кнопки и селекторы;</li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/gllacy)
- |               [**Пинк**](http://igoryarutkin.github.io/145716-pink/index.html)
+ |               [**Пинк**](http://igoryarutkin.github.io/pink/index.html)
 ![Пинк](https://igoryarutkin.github.io/CV-letter/img/pink.png) | **Особенности проекта**<br><br><ul><li>препроцессор SASS, автоматизация Grant;</li><li>сетка на флексбоксах, кастомные чекбоксы, радио-кнопки и селекторы;<li>svg-</li></li><li>PixelPerfect</li></ul><br><br>[Репозиторий проекта](https://github.com/IgorYarutkin/145716-pink)
